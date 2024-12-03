@@ -1,4 +1,4 @@
 Calculadora
 Feita com Html+Js
 
-gh repo clone mcl4radev/calculadora-simples-
+https://github.com/mcl4radev/calculadora-simples-.git
