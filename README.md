@@ -1,2 +1,0 @@
-# calculadora-simples-
-calculadora simples 
